@@ -3,6 +3,9 @@ contact_links:
   - name: 💬 GitHub Discussions
     url: https://github.com/natxofp/bemanning_f/discussions
     about: For general questions, ideas, and community discussions
-  - name: 📚 Documentation
+  - name: �️ Security Policy
+    url: https://github.com/natxofp/bemanning_f/blob/main/SECURITY.md
+    about: Read our policy on reporting security vulnerabilities
+  - name: �📚 Documentation
     url: https://github.com/natxofp/bemanning_f/wiki
     about: Check our documentation and guides
