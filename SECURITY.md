@@ -16,7 +16,7 @@ We take the security of Bemanning seriously. If you have found a security vulner
 
 Please do **NOT** open a public issue for security vulnerabilities. Instead, please report them privately:
 
-1. Email us at [INSERT SECURITY EMAIL]
+1. Email us at ignasi.fernandez@chalmers.se
 2. Provide a detailed description of the vulnerability
 3. Include steps to reproduce the issue
 
