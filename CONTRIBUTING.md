@@ -36,10 +36,9 @@ This is a **public issues-only repository** for the Bemanning web application. T
 
 For questions about using Bemanning:
 
-1. **Check the documentation** first in our [Wiki](../../wiki)
-2. **Search existing questions** in issues and discussions
-3. For general questions, use [GitHub Discussions](../../discussions)
-4. For specific support questions, create an issue using the Question template
+1. **Search existing questions** in issues and discussions
+2. For general questions, use [GitHub Discussions](../../discussions)
+3. For specific support questions, create an issue using the Question template
 
 ## 🗨️ Participating in Discussions
 
@@ -66,25 +65,6 @@ We encourage community participation through [GitHub Discussions](../../discussi
 - Vague descriptions without details
 - Multiple unrelated topics in one issue
 - Demanding or rude language
-
-## 🤝 Code of Conduct
-
-This project follows a Code of Conduct. By participating, you agree to:
-
-- Be respectful and inclusive
-- Welcome newcomers
-- Accept constructive criticism
-- Focus on what's best for the community
-
-See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
-
-## 📞 Getting Help
-
-If you need help:
-
-1. **Documentation**: Check our [Wiki](../../wiki)
-2. **Discussions**: Ask in [GitHub Discussions](../../discussions)
-3. **Issues**: Create an issue for specific bugs or questions
 
 ## ⚡ Issue Triage Process
 
